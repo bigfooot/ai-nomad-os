@@ -35,4 +35,13 @@ Core principle:
 
 ## 🧠 Architecture
 
+---
+Repo:
+https://github.com/bigfooot/ai-nomad-os
+
+Pattern Library (Google Sheet):
+https://docs.google.com/spreadsheets/d/13hL5yp7p8Z3OKcHvojzoF70h3ogmhBQoR_H-XfvSXF0/edit
+
+👉 Ezeket később be fogjuk tenni:
+
 
