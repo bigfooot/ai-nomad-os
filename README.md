@@ -1,47 +1,54 @@
-# ai-nomad-os
-Minimal AI-powered operating system for building remixable digital products using NotebookLM, Notion, GitHub and Substack.
+# 🚀 AI Nomad OS  
+### Build digital products from knowledge — with near-zero infrastructure
 
-# 🚀 AI Nomad OS
-
-> Minimal operating system for building remixable digital products using free-first tools.
-
-AI Nomad OS is a practical, copyable system for solo builders who want to turn knowledge into **real digital products, tools, templates and micro-SaaS projects** — without unnecessary complexity.
-
-NotebookLM → Notion → GitHub/Substack  
-LAB → PROD → PUBLISH
+🇭🇺 + 🇺🇸 | Open, remixable system for solo builders  
+Powered by NotebookLM · Notion · GitHub · Substack · Free-tier stack
 
 ---
 
-## 🎯 What this is
+## 🇭🇺 Mi ez?
 
-This is **not consulting**.  
-This is **not theory**.  
-This is a **product-building operating system**.
+Az **AI Nomad OS** egy nyílt, másolható rendszer, amely segít abban, hogy:
 
-You can use this system to build:
-- Digital templates (Notion packs, prompt packs, workflows)
-- Micro-tools and utilities
-- AI-powered generators
-- Automation kits
-- Lightweight SaaS projects
-- Knowledge products
-- Reusable systems
-- Remixable assets
+- a tudásodból → **digitális termék** legyen  
+- a jegyzeteidből → **újrahasznosítható asset** legyen  
+- az ötleteidből → **valós, működő projekt** legyen  
+- mindezt **minimális költséggel** és **maximális önállósággal**
 
-Core principle:
-> Build once → Remix infinitely → Keep knowledge free.
+Ez nem kurzus.  
+Nem coaching.  
+Nem tanácsadás.
+
+Ez egy **operációs rendszer gondolkodóknak és építőknek**.
 
 ---
 
-## 🧠 Architecture
+## 🇺🇸 What is this?
+
+**AI Nomad OS** is an open, remixable system that helps you:
+
+- turn knowledge → into digital products  
+- turn notes → into reusable assets  
+- turn ideas → into real, working projects  
+- with **near-zero cost** and **maximum independence**
+
+This is not a course.  
+Not consulting.  
+Not coaching.
+
+This is an **operating system for builders.**
 
 ---
-Repo:
-https://github.com/bigfooot/ai-nomad-os
+
+## 🧠 Core idea
+
+> Knowledge should not stay in your head.  
+> It should become infrastructure.
+
+The system follows this flow:
+
+Substack:
+https://infinitypossibilitymediaco.substack.com/
 
 Pattern Library (Google Sheet):
 https://docs.google.com/spreadsheets/d/13hL5yp7p8Z3OKcHvojzoF70h3ogmhBQoR_H-XfvSXF0/edit
-
-👉 Ezeket később be fogjuk tenni:
-
-
